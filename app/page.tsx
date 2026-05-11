@@ -89,7 +89,7 @@ export default function Home() {
       </section>
 
       <footer className="py-12 text-center text-zinc-500 text-sm border-t border-zinc-800">
-        Forge-it © 2026 • Ons miljardenbedrijf in de maak
+        Forge-it © 2026
       </footer>
     </main>
   );
